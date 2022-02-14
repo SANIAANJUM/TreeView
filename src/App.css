@@ -1,0 +1,21 @@
+#box {
+  background-color: #c00d58;
+  width: 150%;
+  margin-top: 6px;
+  margin-left: -30%;
+  margin-right: 30%;
+  font-size: medium;
+  font-style: bold;
+  box-shadow: 0px 0px 2px 2px #7a7777; 
+}
+
+ul.a {
+  list-style-type: circle;
+  content: "\2022";
+  color: red;
+  font-weight: bold;
+  display: inline-block; 
+  width: 1em;
+  margin-left: -1em;
+}
+
